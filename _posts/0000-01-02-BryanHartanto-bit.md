@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Your paragraph here
 Use the left arrow to go back!
 Commits 101
